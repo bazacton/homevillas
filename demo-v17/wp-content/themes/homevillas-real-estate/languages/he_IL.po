@@ -1,0 +1,1347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Homevillas Real Estate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-15 06:48+0000\n"
+"PO-Revision-Date: 2019-12-05 12:05+0500\n"
+"Last-Translator: admin3 <iramshahzadi164@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4\n"
+
+#. 1: number of comments, 2: post title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "הערה %1$s"
+msgstr[1] "הערה %1$s"
+
+#: footer.php:390
+msgid "We use cookies to provide you with the best possible user experience. By continuing to use our site, you agree to their use."
+msgstr "אנו משתמשים בעוגיות כדי לספק לך את חווית המשתמש הטובה ביותר האפשרית. בהמשך השימוש באתר שלנו אתה מסכים לשימוש בהם."
+
+#: footer.php:390
+msgid "Learn more"
+msgstr "למד עוד"
+
+#: footer.php:393
+msgid "I agree"
+msgstr "אני מסכים"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "ראשוני"
+
+#: functions.php:56 assets/frontend/translate/cs-strings-3.php:142
+msgid "Footer Menu"
+msgstr "תפריט תחתון"
+
+#: index.php:167
+msgid "View"
+msgstr "נוף"
+
+#: single-idx.php:22
+msgid "Posted by "
+msgstr "פורסם על ידי "
+
+#: single-idx.php:24 assets/frontend/translate/cs-strings-2.php:218
+msgid "on"
+msgstr "ב"
+
+#: single-idx.php:43 assets/frontend/translate/cs-strings-3.php:51 assets/frontend/translate/cs-strings-3.php:55
+msgid "Pages:"
+msgstr "דפים:"
+
+#: single-idx.php:48
+msgid "Next page"
+msgstr "עמוד הבא"
+
+#: single-idx.php:49
+msgid "Previous page"
+msgstr "עמוד קודם"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:74 assets/frontend/translate/cs-strings-3.php:35
+msgid "Product"
+msgstr "מוצר"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:94 assets/frontend/translate/cs-strings-3.php:36
+msgid "Price"
+msgstr "מחיר"
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:100 assets/frontend/translate/cs-strings-3.php:37
+msgid "Quantity"
+msgstr "כמות"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:118 assets/frontend/translate/cs-strings-3.php:38 assets/frontend/translate/cs-strings-3.php:50
+msgid "Total"
+msgstr "סך הכל"
+
+#: woocommerce/cart/cart.php:55 assets/frontend/translate/cs-strings-3.php:39
+msgid "Remove this item"
+msgstr "הסר פריט זה"
+
+#: woocommerce/cart/cart.php:89 assets/frontend/translate/cs-strings-3.php:40
+msgid "Available on backorder"
+msgstr "זמין על backorder"
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon:"
+msgstr "קופון:"
+
+#: woocommerce/cart/cart.php:136 assets/frontend/translate/cs-strings-3.php:42
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply coupon"
+msgstr "החל קופון"
+
+#: woocommerce/cart/cart.php:141
+msgid "Update cart"
+msgstr "עדכן עגלת קניות"
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr "כמות %s"
+
+#: woocommerce/single-product/meta.php:31 assets/frontend/translate/cs-strings-3.php:62
+msgid "SKU:"
+msgstr "מק\"ט:"
+
+#: woocommerce/single-product/meta.php:31 assets/frontend/translate/cs-strings-3.php:31
+msgid "N/A"
+msgstr "לא"
+
+#: woocommerce/single-product/meta.php:35 assets/frontend/translate/cs-strings-2.php:166
+msgid "Category:"
+msgstr "קטגוריה:"
+
+#: woocommerce/single-product/meta.php:37 assets/frontend/translate/cs-strings-2.php:168
+msgid "Tag:"
+msgstr "תגית:"
+
+#: assets/frontend/translate/cs-strings-2.php:21
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "פוסט זה מוגן באמצעות סיסמה. לצפייה הזן את הסיסמה שלך למטה:"
+
+#: assets/frontend/translate/cs-strings-2.php:22
+msgid "Auto Update"
+msgstr "עדכון אוטומטי"
+
+#: assets/frontend/translate/cs-strings-2.php:23
+msgid "Auto Update Theme"
+msgstr "עדכון אוטומטי של נושא"
+
+#: assets/frontend/translate/cs-strings-2.php:24
+msgid "Automatic Upgrade"
+msgstr "שדרוג אוטומטי"
+
+#: assets/frontend/translate/cs-strings-2.php:25
+msgid "Marketplace Username"
+msgstr "שם משתמש של שוק"
+
+#: assets/frontend/translate/cs-strings-2.php:26
+msgid "Enter your Marketplace Username."
+msgstr "הזן את שם המשתמש שלך ב- Marketplace."
+
+#: assets/frontend/translate/cs-strings-2.php:27
+msgid "Secret API Key"
+msgstr "מפתח ממשק API סודי"
+
+#: assets/frontend/translate/cs-strings-2.php:28
+msgid "Enter your Secret API key."
+msgstr "הזן את מפתח ה- API שלך הסודי."
+
+#: assets/frontend/translate/cs-strings-2.php:29
+msgid "Skip Theme Backup"
+msgstr "דלג על גיבוי נושא"
+
+#: assets/frontend/translate/cs-strings-2.php:30
+msgid "Do you want to skip theme backup?"
+msgstr "האם ברצונך לדלג על גיבוי נושא?"
+
+#: assets/frontend/translate/cs-strings-2.php:31
+msgid "Auto"
+msgstr "אוטומטי"
+
+#: assets/frontend/translate/cs-strings-2.php:32
+msgid "Please add client logo first."
+msgstr "אנא הוסף תחילה את לוגו הלקוח."
+
+#: assets/frontend/translate/cs-strings-2.php:33
+msgid "Please fill all mandatory fields."
+msgstr "אנא מלא את כל שדות החובה."
+
+#: assets/frontend/translate/cs-strings-2.php:34
+msgid "Please fill sidebar name field."
+msgstr "אנא מלא את שדה שם סרגל הצד."
+
+#: assets/frontend/translate/cs-strings-2.php:47
+msgid "Minimum PHP Version"
+msgstr "גרסת PHP מינימלית"
+
+#: assets/frontend/translate/cs-strings-2.php:48
+msgid "To run this theme properly, mentioned minium PHP version is required."
+msgstr "כדי להריץ נושא זה כראוי, נדרשת גרסת PHP של מיניום מוזכרת."
+
+#: assets/frontend/translate/cs-strings-2.php:49
+msgid "Available"
+msgstr "זמין"
+
+#: assets/frontend/translate/cs-strings-2.php:50
+msgid "Sets max size of post data allowed. This setting also affects file upload."
+msgstr "מגדיר גודל מקסימלי של נתוני ההודעה. הגדרה זו משפיעה גם על העלאת הקבצים."
+
+#: assets/frontend/translate/cs-strings-2.php:51
+msgid "The maximum size of a file that can be uploaded."
+msgstr "הגודל המרבי של קובץ שניתן להעלות."
+
+#: assets/frontend/translate/cs-strings-2.php:52
+msgid "This sets the maximum amount of memory that a script is allowed to allocate."
+msgstr "זה קובע את כמות הזיכרון המרבית שמותר לתסריט להקצות."
+
+#: assets/frontend/translate/cs-strings-2.php:53
+msgid "To download import data this option is required."
+msgstr "כדי להוריד נתוני ייבוא אפשרות זו נדרשת."
+
+#: assets/frontend/translate/cs-strings-2.php:54
+msgid "To download import attachments this option is required."
+msgstr "להורדת קבצים מצורפים לייבוא אפשרות זו נדרשת."
+
+#: assets/frontend/translate/cs-strings-2.php:55
+msgid "should be enabled in"
+msgstr "צריך להיות מופעל ב -"
+
+#: assets/frontend/translate/cs-strings-2.php:56
+msgid "Real Estate Framework"
+msgstr "מסגרת נדל\"ן"
+
+#: assets/frontend/translate/cs-strings-2.php:57
+msgid "This plugin is required as this handles the core functionality of the theme."
+msgstr "תוסף זה נדרש מכיוון שהוא מטפל בפונקציונליות הליבה של הנושא."
+
+#: assets/frontend/translate/cs-strings-2.php:58
+msgid "CS Icons Manager"
+msgstr "מנהל סמלי CS"
+
+#: assets/frontend/translate/cs-strings-2.php:59
+msgid "This plugin is required as this handles all functionality related to cs icons manager etc."
+msgstr "תוסף זה נדרש מכיוון שהוא מטפל בכל הפונקציונליות הקשורה למנהל סמלי cs וכו '."
+
+#: assets/frontend/translate/cs-strings-2.php:60
+msgid "WP Real Estate Manager"
+msgstr "מנהל נדל\"ן WP"
+
+#: assets/frontend/translate/cs-strings-2.php:61
+msgid "This plugin is required as this handles all functionality related to real estate manager etc."
+msgstr "תוסף זה נדרש מכיוון שהוא מטפל בכל הפונקציונליות הקשורה למנהל נדל\"ן וכו '."
+
+#: assets/frontend/translate/cs-strings-2.php:62
+msgid "Revolution Slider"
+msgstr "מחוון המהפכה"
+
+#: assets/frontend/translate/cs-strings-2.php:63
+msgid "This plugin is required to import Revolution sliders from demo data."
+msgstr "תוסף זה נדרש לייבא את מחוון המהפכה מנתוני הדגמה."
+
+#: assets/frontend/translate/cs-strings-2.php:64
+msgid "Install Required Plugins"
+msgstr "התקן תוספים נדרשים"
+
+#: assets/frontend/translate/cs-strings-2.php:65
+msgid "Install Plugins"
+msgstr "התקן תוספים"
+
+#: assets/frontend/translate/cs-strings-2.php:66
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "התקנת פלאגין: %s"
+
+#: assets/frontend/translate/cs-strings-2.php:67
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "מעדכן את הפלאגין: %s"
+
+#: assets/frontend/translate/cs-strings-2.php:68
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש עם ממשק ה- API של התוסף."
+
+#: assets/frontend/translate/cs-strings-2.php:69
+msgid "Return to Required Plugins Installer"
+msgstr "חזור למתקין התוספים הנדרש"
+
+#: assets/frontend/translate/cs-strings-2.php:70
+msgid "Return to the Dashboard"
+msgstr "חזור ללוח המחוונים"
+
+#: assets/frontend/translate/cs-strings-2.php:71 assets/frontend/translate/cs-strings-2.php:118
+msgid "Plugin activated successfully."
+msgstr "הפלאגין הופעל בהצלחה."
+
+#: assets/frontend/translate/cs-strings-2.php:72 assets/frontend/translate/cs-strings-2.php:141
+msgid "The following plugin was activated successfully:"
+msgstr "התוסף הבא הופעל בהצלחה:"
+
+#: assets/frontend/translate/cs-strings-2.php:73
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא ננקטה כל פעולה. הפלאגין %1$s כבר היה פעיל."
+
+#: assets/frontend/translate/cs-strings-2.php:74
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "הפלאגין לא מופעל. יש צורך בגרסה גבוהה יותר של %s לנושא זה. אנא עדכן את התוסף."
+
+#: assets/frontend/translate/cs-strings-2.php:75
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים המותקנים והופעלו בהצלחה. %1$s"
+
+#: assets/frontend/translate/cs-strings-2.php:76
+msgid "Dismiss this notice"
+msgstr "בטל הודעה זו"
+
+#: assets/frontend/translate/cs-strings-2.php:77
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "יש התקנה, עדכון או הפעלה של יישומי פלאגין אחד או יותר."
+
+#: assets/frontend/translate/cs-strings-2.php:78
+msgid "Please contact the administrator of this site for help."
+msgstr "אנא צרו קשר עם מנהל האתר לקבלת עזרה."
+
+#: assets/frontend/translate/cs-strings-2.php:79
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "יש לעדכן את התוסף הזה כדי להיות תואם לנושא שלך."
+
+#: assets/frontend/translate/cs-strings-2.php:80
+msgid "Update Required"
+msgstr "נדרש עדכון"
+
+#: assets/frontend/translate/cs-strings-2.php:81
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "חבילת התוספים המרוחקים אינה מכילה תיקיה עם הקליפה הרצויה ושינוי השם לא עבד."
+
+#: assets/frontend/translate/cs-strings-2.php:82
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "חבילת התוספים המרוחקים מורכבת ביותר מקובץ אחד, אך הקבצים אינם נארזים בתיקיה."
+
+#: assets/frontend/translate/cs-strings-2.php:83
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "אנא צור קשר עם ספק התוספים ובקש ממנו לארוז את התוסף שלו בהתאם להנחיות וורדפרס."
+
+#: assets/frontend/translate/cs-strings-2.php:84
+msgid "Required"
+msgstr "נדרש"
+
+#: assets/frontend/translate/cs-strings-2.php:85
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: assets/frontend/translate/cs-strings-2.php:86
+msgid "WordPress Repository"
+msgstr "מאגר וורדפרס"
+
+#: assets/frontend/translate/cs-strings-2.php:87
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: assets/frontend/translate/cs-strings-2.php:88
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: assets/frontend/translate/cs-strings-2.php:89
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: assets/frontend/translate/cs-strings-2.php:90
+msgid "Installed But Not Activated"
+msgstr "מותקן אך לא מופעל"
+
+#: assets/frontend/translate/cs-strings-2.php:91
+msgid "Active"
+msgstr "פעיל"
+
+#: assets/frontend/translate/cs-strings-2.php:92
+msgid "Required Update not Available"
+msgstr "עדכון חובה אינו זמין"
+
+#: assets/frontend/translate/cs-strings-2.php:93
+msgid "Requires Update"
+msgstr "דורש עדכון"
+
+#: assets/frontend/translate/cs-strings-2.php:94
+msgid "Update recommended"
+msgstr "עדכון מומלץ"
+
+#: assets/frontend/translate/cs-strings-2.php:95
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#: assets/frontend/translate/cs-strings-2.php:96
+msgid "Minimum required version:"
+msgstr "גרסה מינימלית נדרשת:"
+
+#: assets/frontend/translate/cs-strings-2.php:97
+msgid "Available version:"
+msgstr "גרסה זמינה:"
+
+#: assets/frontend/translate/cs-strings-2.php:98
+msgid "No plugins to install, update or activate."
+msgstr "אין תוספים להתקנה, עדכון או הפעלה."
+
+#: assets/frontend/translate/cs-strings-2.php:99
+msgid "Plugin"
+msgstr "חיבור"
+
+#: assets/frontend/translate/cs-strings-2.php:100
+msgid "Source"
+msgstr "מקור"
+
+#: assets/frontend/translate/cs-strings-2.php:101
+msgid "Type"
+msgstr "סוג"
+
+#: assets/frontend/translate/cs-strings-2.php:102
+msgid "Version"
+msgstr "גרסה"
+
+#: assets/frontend/translate/cs-strings-2.php:103
+msgid "Status"
+msgstr "סטטוס"
+
+#: assets/frontend/translate/cs-strings-2.php:104
+#, php-format
+msgid "Install %2$s"
+msgstr "התקן %2$s"
+
+#: assets/frontend/translate/cs-strings-2.php:105
+#, php-format
+msgid "Update %2$s"
+msgstr "עדכן %2$s"
+
+#: assets/frontend/translate/cs-strings-2.php:106
+#, php-format
+msgid "Activate %2$s"
+msgstr "הפעל %2$s"
+
+#: assets/frontend/translate/cs-strings-2.php:107
+msgid "Upgrade message from the plugin author:"
+msgstr "שדרג הודעה מאת מחבר התוסף:"
+
+#: assets/frontend/translate/cs-strings-2.php:108
+msgid "Install"
+msgstr "להתקין"
+
+#: assets/frontend/translate/cs-strings-2.php:109
+msgid "Update"
+msgstr "עדכון"
+
+#: assets/frontend/translate/cs-strings-2.php:110
+msgid "Activate"
+msgstr "הפעל"
+
+#: assets/frontend/translate/cs-strings-2.php:111
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא נבחרו יישומי פלאגין להתקנה. לא ננקטה כל פעולה."
+
+#: assets/frontend/translate/cs-strings-2.php:112
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו עדכונים של תוספים. לא ננקטה כל פעולה."
+
+#: assets/frontend/translate/cs-strings-2.php:113
+msgid "No plugins are available to be installed at this time."
+msgstr "לא ניתן להתקין יישומי פלאגין בשלב זה."
+
+#: assets/frontend/translate/cs-strings-2.php:114
+msgid "No plugins are available to be updated at this time."
+msgstr "לא ניתן לעדכן כרגע תוספים."
+
+#: assets/frontend/translate/cs-strings-2.php:115
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא נבחרו תוספים להפעלה. לא ננקטה כל פעולה."
+
+#: assets/frontend/translate/cs-strings-2.php:116
+msgid "No plugins are available to be activated at this time."
+msgstr "לא ניתן יהיה להפעיל יישומי פלאגין בשלב זה."
+
+#: assets/frontend/translate/cs-strings-2.php:117
+msgid "Plugin activation failed."
+msgstr "הפעלת הפלאגין נכשלה."
+
+#: assets/frontend/translate/cs-strings-2.php:119
+msgid "Updating Plugin"
+msgstr "מעדכן את הפלאגין"
+
+#: assets/frontend/translate/cs-strings-2.php:120
+msgid "An error occurred while installing"
+msgstr "אירעה שגיאה במהלך ההתקנה"
+
+#: assets/frontend/translate/cs-strings-2.php:121
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#: assets/frontend/translate/cs-strings-2.php:122
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "תהליך ההתקנה וההפעלה מתחיל. תהליך זה עשוי לארוך זמן מה אצל כמה מארחים, אז אנא היו סבלניים."
+
+#: assets/frontend/translate/cs-strings-2.php:123
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s הותקן והופעל בהצלחה."
+
+#: assets/frontend/translate/cs-strings-2.php:124
+msgid "Show Details"
+msgstr "הראה פרטים"
+
+#: assets/frontend/translate/cs-strings-2.php:125
+msgid "Hide Details"
+msgstr "הסתר פרטים"
+
+#: assets/frontend/translate/cs-strings-2.php:126
+msgid "All installations and activations have been completed."
+msgstr "כל ההתקנות וההפעלה הושלמו."
+
+#: assets/frontend/translate/cs-strings-2.php:127
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "התקנה והפעלה של הפלאגין %1$s ( %2$d / %3$d )"
+
+#: assets/frontend/translate/cs-strings-2.php:128
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "תהליך ההתקנה מתחיל. תהליך זה עשוי לארוך זמן מה אצל כמה מארחים, אז אנא היו סבלניים."
+
+#: assets/frontend/translate/cs-strings-2.php:129
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s הותקן בהצלחה."
+
+#: assets/frontend/translate/cs-strings-2.php:130
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הושלמו."
+
+#: assets/frontend/translate/cs-strings-2.php:131
+msgid "Installing Plugin"
+msgstr "התקנת תוסף"
+
+#: assets/frontend/translate/cs-strings-2.php:132
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v %s"
+
+#: assets/frontend/translate/cs-strings-2.php:133
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s , %2$s"
+
+#: assets/frontend/translate/cs-strings-2.php:134
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "לא ידוע"
+
+#: assets/frontend/translate/cs-strings-2.php:135 assets/frontend/translate/cs-strings-3.php:72
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ו"
+
+#: assets/frontend/translate/cs-strings-2.php:137
+msgid "All"
+msgstr "את כל"
+
+#: assets/frontend/translate/cs-strings-2.php:138
+msgid "To Install"
+msgstr "להתקין"
+
+#: assets/frontend/translate/cs-strings-2.php:139
+msgid "Update Available"
+msgstr "עדכון זמין"
+
+#: assets/frontend/translate/cs-strings-2.php:140
+msgid "To Activate"
+msgstr "להפעיל"
+
+#: assets/frontend/translate/cs-strings-2.php:142
+msgid "The following plugins were activated successfully:"
+msgstr "התוספים הבאים הופעלו בהצלחה:"
+
+#. Name of the theme
+#: assets/frontend/translate/cs-strings-2.php:144
+msgid "Homevillas Real Estate"
+msgstr "נדל\"ן הומווילז"
+
+#: assets/frontend/translate/cs-strings-2.php:145
+msgid "Home v2"
+msgstr "בית v2"
+
+#: assets/frontend/translate/cs-strings-2.php:146
+msgid "Home v3"
+msgstr "בית v3"
+
+#: assets/frontend/translate/cs-strings-2.php:147
+msgid "Home v4"
+msgstr "בית v4"
+
+#: assets/frontend/translate/cs-strings-2.php:148
+msgid "Home v5"
+msgstr "בית v5"
+
+#: assets/frontend/translate/cs-strings-2.php:149
+msgid "Home v6"
+msgstr "בית v6"
+
+#: assets/frontend/translate/cs-strings-2.php:150
+msgid "Home v7"
+msgstr "בית v7"
+
+#: assets/frontend/translate/cs-strings-2.php:151
+msgid "Home v8"
+msgstr "בית v8"
+
+#: assets/frontend/translate/cs-strings-2.php:152
+msgid "Home v9"
+msgstr "בית v9"
+
+#: assets/frontend/translate/cs-strings-2.php:153
+msgid "Home v10"
+msgstr "בית v10"
+
+#: assets/frontend/translate/cs-strings-2.php:154
+msgid "Home v11"
+msgstr "בית v11"
+
+#: assets/frontend/translate/cs-strings-2.php:155
+msgid "Home v12"
+msgstr "בית v12"
+
+#: assets/frontend/translate/cs-strings-2.php:156
+msgid "Home v13"
+msgstr "בית v13"
+
+#: assets/frontend/translate/cs-strings-2.php:157
+msgid "Home v14"
+msgstr "בית v14"
+
+#: assets/frontend/translate/cs-strings-2.php:158
+msgid "Home v15"
+msgstr "בית v15"
+
+#: assets/frontend/translate/cs-strings-2.php:159
+msgid "Home v16"
+msgstr "בית v16"
+
+#: assets/frontend/translate/cs-strings-2.php:160
+msgid "RTL Demo"
+msgstr "הדגמת RTL"
+
+#: assets/frontend/translate/cs-strings-2.php:167
+msgid "Categories:"
+msgstr "קטגוריות:"
+
+#: assets/frontend/translate/cs-strings-2.php:169
+msgid "Tags:"
+msgstr "תגיות:"
+
+#: assets/frontend/translate/cs-strings-2.php:171
+#, php-format
+msgid "based on %s customer rating"
+msgstr "מבוסס על דירוג לקוחות %s"
+
+#: assets/frontend/translate/cs-strings-2.php:172
+#, php-format
+msgid "based on %s customer ratings"
+msgstr "מבוסס על דירוג לקוחות %s"
+
+#: assets/frontend/translate/cs-strings-2.php:173
+msgid "Reviews"
+msgstr "ביקורות"
+
+#: assets/frontend/translate/cs-strings-2.php:188
+msgid "Product Description"
+msgstr "תיאור מוצר"
+
+#: assets/frontend/translate/cs-strings-2.php:189
+msgid "Additional Information"
+msgstr "מידע נוסף"
+
+#: assets/frontend/translate/cs-strings-2.php:190
+#, php-format
+msgid "out of %s5%s"
+msgstr "מתוך %s 5 %s"
+
+#: assets/frontend/translate/cs-strings-2.php:193
+msgid "Fancy Menu"
+msgstr "תפריט מפואר"
+
+#: assets/frontend/translate/cs-strings-2.php:194
+msgid "Menu List"
+msgstr "רשימת תפריטים"
+
+#: assets/frontend/translate/cs-strings-2.php:195
+msgid "No menus have been created yet."
+msgstr "עדיין לא נוצרו תפריטים."
+
+#: assets/frontend/translate/cs-strings-2.php:196
+msgid "Create some"
+msgstr "צור כמה"
+
+#: assets/frontend/translate/cs-strings-2.php:197 assets/frontend/translate/cs-strings-2.php:214 assets/frontend/translate/cs-strings-3.php:18 assets/frontend/translate/cs-strings-3.php:25
+msgid "Title"
+msgstr "כותרת"
+
+#: assets/frontend/translate/cs-strings-2.php:198
+msgid "Menu"
+msgstr "תפריט"
+
+#: assets/frontend/translate/cs-strings-2.php:201
+msgid "Submit"
+msgstr "שלח"
+
+#: assets/frontend/translate/cs-strings-2.php:202
+msgid "ago"
+msgstr "לפני"
+
+#: assets/frontend/translate/cs-strings-2.php:203
+msgid "Reply"
+msgstr "תשובה"
+
+#: assets/frontend/translate/cs-strings-2.php:204
+msgid "facebook"
+msgstr "פייסבוק"
+
+#: assets/frontend/translate/cs-strings-2.php:205
+msgid "twitter"
+msgstr "טוויטר"
+
+#: assets/frontend/translate/cs-strings-2.php:206
+msgid "google+"
+msgstr "google +"
+
+#: assets/frontend/translate/cs-strings-2.php:207
+msgid "tumbler"
+msgstr "כוס"
+
+#: assets/frontend/translate/cs-strings-2.php:208
+msgid "dribble"
+msgstr "כדרור"
+
+#: assets/frontend/translate/cs-strings-2.php:209
+msgid "stumbleupon"
+msgstr "להיתקל"
+
+#: assets/frontend/translate/cs-strings-2.php:210
+msgid "Content"
+msgstr "תוכן"
+
+#: assets/frontend/translate/cs-strings-2.php:211
+msgid "Remove"
+msgstr "הסר"
+
+#: assets/frontend/translate/cs-strings-2.php:212
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: assets/frontend/translate/cs-strings-2.php:213
+msgid "-- Select Categories --"
+msgstr "- בחר קטגוריות -"
+
+#: assets/frontend/translate/cs-strings-2.php:215
+msgid "Mega Menu View"
+msgstr "תצוגת תפריט מגה"
+
+#: assets/frontend/translate/cs-strings-2.php:216
+msgid "Simple"
+msgstr "פשוט"
+
+#: assets/frontend/translate/cs-strings-2.php:217
+msgid "Active Mega Menu"
+msgstr "תפריט מגה פעיל"
+
+#: assets/frontend/translate/cs-strings-2.php:219
+msgid "Featured"
+msgstr "מומלצים"
+
+#: assets/frontend/translate/cs-strings-2.php:220
+msgid "Views"
+msgstr "צפיות"
+
+#: assets/frontend/translate/cs-strings-2.php:223
+msgid "eng"
+msgstr "eng"
+
+#: assets/frontend/translate/cs-strings-2.php:224
+msgid "France"
+msgstr "צרפת"
+
+#: assets/frontend/translate/cs-strings-2.php:225
+msgid "Germany"
+msgstr "גרמניה"
+
+#: assets/frontend/translate/cs-strings-2.php:226
+msgid "Italy"
+msgstr "איטליה"
+
+#: assets/frontend/translate/cs-strings-2.php:227
+msgid "Iceland"
+msgstr "איסלנד"
+
+#: assets/frontend/translate/cs-strings-2.php:228
+msgid "USD"
+msgstr "דולר אמריקאי"
+
+#: assets/frontend/translate/cs-strings-2.php:229
+msgid "UAE"
+msgstr "איחוד האמירויות"
+
+#: assets/frontend/translate/cs-strings-2.php:230
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (לא חוקי)"
+
+#: assets/frontend/translate/cs-strings-2.php:231
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (בהמתנה)"
+
+#: assets/frontend/translate/cs-strings-2.php:232
+#, php-format
+msgid "Original: %s"
+msgstr "מקור: %s"
+
+#: assets/frontend/translate/cs-strings-2.php:233
+msgid "Move up"
+msgstr "זז למעלה"
+
+#: assets/frontend/translate/cs-strings-2.php:234
+msgid "Move down"
+msgstr "לרדת"
+
+#: assets/frontend/translate/cs-strings-2.php:235
+msgid "Edit Menu Item"
+msgstr "ערוך פריט בתפריט"
+
+#: assets/frontend/translate/cs-strings-2.php:236 assets/frontend/translate/cs-strings-3.php:19 assets/frontend/translate/cs-strings-3.php:26
+msgid "URL"
+msgstr "כתובת אתר"
+
+#: assets/frontend/translate/cs-strings-2.php:237
+msgid "Navigation Label"
+msgstr "תווית ניווט"
+
+#: assets/frontend/translate/cs-strings-2.php:238
+msgid "Title Attribute"
+msgstr "תכונה כותרת"
+
+#: assets/frontend/translate/cs-strings-2.php:239
+msgid "Open link in a new tab"
+msgstr "פתח קישור בכרטיסייה חדשה"
+
+#: assets/frontend/translate/cs-strings-2.php:240
+msgid "CSS Classes (optional)"
+msgstr "שיעורי CSS (לא חובה)"
+
+#: assets/frontend/translate/cs-strings-2.php:241
+msgid "Link Relationship (XFN)"
+msgstr "יחסי קישור (XFN)"
+
+#: assets/frontend/translate/cs-strings-2.php:242 assets/frontend/translate/cs-strings-3.php:87
+msgid "Description"
+msgstr "תיאור"
+
+#: assets/frontend/translate/cs-strings-2.php:243
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "התיאור יוצג בתפריט אם העיצוב הנוכחי תומך בו."
+
+#: assets/frontend/translate/cs-strings-2.php:244
+msgid "Cancel"
+msgstr "בטל"
+
+#: assets/frontend/translate/cs-strings-2.php:247
+#, php-format
+msgid "Posted in %1$s"
+msgstr "פורסם ב- %1$s"
+
+#: assets/frontend/translate/cs-strings-2.php:248
+#, php-format
+msgid "Tagged %1$s"
+msgstr "מתויג %1$s"
+
+#: assets/frontend/translate/cs-strings-2.php:249 assets/frontend/translate/cs-strings-3.php:52
+#, php-format
+msgid "Edit %s"
+msgstr "ערוך %s"
+
+#: assets/frontend/translate/cs-strings-2.php:250
+msgid "Leave a Comment"
+msgstr "השאר תגובה"
+
+#: assets/frontend/translate/cs-strings-2.php:251
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "פורסם ב- %s"
+
+#: assets/frontend/translate/cs-strings-2.php:252
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "ב %s"
+
+#: assets/frontend/translate/cs-strings-3.php:20 assets/frontend/translate/cs-strings-3.php:27
+msgid "Logo"
+msgstr "לוגו"
+
+#: assets/frontend/translate/cs-strings-3.php:21
+msgid "Successfully installed"
+msgstr "הותקן בהצלחה"
+
+#: assets/frontend/translate/cs-strings-3.php:22
+msgid "Sorry unable to upgrade theme. Contact Theme Author and repot this issue."
+msgstr "מצטערים, אין אפשרות לשדרג את הנושא. צור קשר עם מחבר הנושא וקבע מחדש סוגיה זו."
+
+#: assets/frontend/translate/cs-strings-3.php:23
+msgid "Clients"
+msgstr "לקוחות"
+
+#: assets/frontend/translate/cs-strings-3.php:24
+msgid "Enable clients in footer"
+msgstr "הפעל לקוחות בכותרת התחתונה"
+
+#: assets/frontend/translate/cs-strings-3.php:28
+msgid "Added Clients"
+msgstr "לקוחות שנוספו"
+
+#: assets/frontend/translate/cs-strings-3.php:29
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "מדורג %s מתוך 5"
+
+#: assets/frontend/translate/cs-strings-3.php:30
+msgid "Placeholder"
+msgstr "מציין מקום"
+
+#: assets/frontend/translate/cs-strings-3.php:32
+msgid "Next"
+msgstr "הבא"
+
+#: assets/frontend/translate/cs-strings-3.php:33
+msgid "Previous"
+msgstr "קודם"
+
+#: assets/frontend/translate/cs-strings-3.php:34
+msgid "Prev"
+msgstr "קודם"
+
+#: assets/frontend/translate/cs-strings-3.php:41
+msgid "Coupon"
+msgstr "קופון"
+
+#: assets/frontend/translate/cs-strings-3.php:43
+msgid "Update Cart"
+msgstr "עדכן עגלת קניות"
+
+#: assets/frontend/translate/cs-strings-3.php:44
+msgid "Apply Coupon"
+msgstr "החל קופון"
+
+#: assets/frontend/translate/cs-strings-3.php:45
+msgid "calculated_shipping"
+msgstr "משלוח מחושב"
+
+#: assets/frontend/translate/cs-strings-3.php:46
+#, php-format
+msgid "estimated for %s"
+msgstr "מוערך ב- %s"
+
+#: assets/frontend/translate/cs-strings-3.php:47
+msgid "Cart Totals"
+msgstr "סך הכל עגלה"
+
+#: assets/frontend/translate/cs-strings-3.php:48
+msgid "Subtotal"
+msgstr "רמה חלקית"
+
+#: assets/frontend/translate/cs-strings-3.php:49
+msgid "Shipping"
+msgstr "משלוח"
+
+#: assets/frontend/translate/cs-strings-3.php:53
+msgid "Previous Article"
+msgstr "מאמר קודם"
+
+#: assets/frontend/translate/cs-strings-3.php:54
+msgid "Next Article "
+msgstr "המאמר הבא "
+
+#: assets/frontend/translate/cs-strings-3.php:56
+msgid "Written by "
+msgstr "נכתב על ידי "
+
+#: assets/frontend/translate/cs-strings-3.php:57
+msgid "Share "
+msgstr "שתף "
+
+#: assets/frontend/translate/cs-strings-3.php:58
+msgid "You May also Like this"
+msgstr "אתה יכול גם אוהב את זה"
+
+#: assets/frontend/translate/cs-strings-3.php:59
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: assets/frontend/translate/cs-strings-3.php:60
+msgid "About info Image"
+msgstr "אודות מידע תמונה"
+
+#: assets/frontend/translate/cs-strings-3.php:61
+msgid "Search"
+msgstr "לחפש"
+
+#: assets/frontend/translate/cs-strings-3.php:63
+msgid "Edit"
+msgstr "ערוך"
+
+#: assets/frontend/translate/cs-strings-3.php:64
+#, php-format
+msgid "%d seconds ago"
+msgstr "לפני %d שניות"
+
+#: assets/frontend/translate/cs-strings-3.php:65
+msgid "Ready to publish your first post?"
+msgstr "מוכנים לפרסם את הפוסט הראשון שלך?"
+
+#: assets/frontend/translate/cs-strings-3.php:66
+msgid "Get started here"
+msgstr "התחל כאן"
+
+#: assets/frontend/translate/cs-strings-3.php:67
+msgid "Continue reading"
+msgstr "המשך לקרוא"
+
+#: assets/frontend/translate/cs-strings-3.php:68
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה שאנחנו לא יכולים למצוא את מה שאתה מחפש. אולי חיפוש יכול לעזור."
+
+#: assets/frontend/translate/cs-strings-3.php:69
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "מחשבה אחת על & ldquo; %s & rdquo;"
+
+#: assets/frontend/translate/cs-strings-3.php:70
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "כמות"
+
+#: assets/frontend/translate/cs-strings-3.php:71
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class = \\ \"meta-nav \"> פורסם ב </ span> <span class = \\ \"post-title \"> %t itle </span>"
+
+#: assets/frontend/translate/cs-strings-3.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "גודל מלא"
+
+#: assets/frontend/translate/cs-strings-3.php:74
+msgid "Font Weight"
+msgstr "משקל גופן"
+
+#: assets/frontend/translate/cs-strings-3.php:75
+msgid "Select font weight for heading here"
+msgstr "בחר משקל גופן לכותרת כאן"
+
+#: assets/frontend/translate/cs-strings-3.php:76
+msgid "Select font weight"
+msgstr "בחר משקל גופן"
+
+#: assets/frontend/translate/cs-strings-3.php:77
+msgid "By "
+msgstr "על ידי "
+
+#: assets/frontend/translate/cs-strings-3.php:82
+msgid "NEWSLETTER OPTIONS"
+msgstr "אפשרויות עלון"
+
+#: assets/frontend/translate/cs-strings-3.php:83
+msgid "API Key"
+msgstr "מפתח API"
+
+#: assets/frontend/translate/cs-strings-3.php:84
+msgid "Enter the Mail Chimp Api key"
+msgstr "הזן את מקש ה- Mail Chimp Api"
+
+#: assets/frontend/translate/cs-strings-3.php:85
+msgid "Mail Chimp List"
+msgstr "רשימת השימפנזים בדואר"
+
+#: assets/frontend/translate/cs-strings-3.php:86
+msgid "Newsletter"
+msgstr "עלון"
+
+#: assets/frontend/translate/cs-strings-3.php:88 assets/frontend/translate/cs-strings-3.php:130
+msgid "Styles"
+msgstr "סגנונות"
+
+#: assets/frontend/translate/cs-strings-3.php:89
+msgid "Select newsletter style from this dropdown"
+msgstr "בחר סגנון עלון מהתפריט הנפתח הזה"
+
+#: assets/frontend/translate/cs-strings-3.php:90 assets/frontend/translate/cs-strings-3.php:102
+msgid "Classic"
+msgstr "קלאסי"
+
+#: assets/frontend/translate/cs-strings-3.php:91 assets/frontend/translate/cs-strings-3.php:132
+msgid "Modern"
+msgstr "מודרני"
+
+#: assets/frontend/translate/cs-strings-3.php:92
+msgid "Fancy"
+msgstr "מפואר"
+
+#: assets/frontend/translate/cs-strings-3.php:94
+msgid "Follow Us"
+msgstr "עקבו אחרינו"
+
+#: assets/frontend/translate/cs-strings-3.php:100
+msgid "Style"
+msgstr "סגנון"
+
+#: assets/frontend/translate/cs-strings-3.php:101 assets/frontend/translate/cs-strings-3.php:125 assets/frontend/translate/cs-strings-3.php:131 assets/frontend/translate/cs-strings-3.php:133 assets/frontend/translate/cs-strings-3.php:189
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: assets/frontend/translate/cs-strings-3.php:108
+msgid "Gallery Options"
+msgstr "אפשרויות גלריה"
+
+#: assets/frontend/translate/cs-strings-3.php:109
+msgid "Margin Left"
+msgstr "שוליים שמאל"
+
+#: assets/frontend/translate/cs-strings-3.php:110
+msgid "Use this option if u want to use margin left for this element  (without px)."
+msgstr "השתמש באפשרות זו אם u רוצה להשתמש בשוליים שנותרו לאלמנט זה (ללא px)."
+
+#: assets/frontend/translate/cs-strings-3.php:111
+msgid "Margin Right"
+msgstr "Margin Right"
+
+#: assets/frontend/translate/cs-strings-3.php:112
+msgid "Use this option if u want to use margin right for this element (without px)."
+msgstr "השתמש באפשרות זו אם u רוצה להשתמש בזכות השוליים עבור רכיב זה (ללא px)."
+
+#: assets/frontend/translate/cs-strings-3.php:113
+msgid "Image URL"
+msgstr "כתובת אתר של תמונה"
+
+#: assets/frontend/translate/cs-strings-3.php:114
+msgid "Add image url"
+msgstr "הוסף כתובת אתר לתמונה"
+
+#: assets/frontend/translate/cs-strings-3.php:115
+msgid "Image Size"
+msgstr "גודל תמונה"
+
+#: assets/frontend/translate/cs-strings-3.php:116
+msgid "Select image size from this dropdown"
+msgstr "בחר גודל תמונה מהתפריט הנפתח הזה"
+
+#: assets/frontend/translate/cs-strings-3.php:117
+msgid "Small"
+msgstr "קטן"
+
+#: assets/frontend/translate/cs-strings-3.php:118
+msgid "Large"
+msgstr "גדול"
+
+#: assets/frontend/translate/cs-strings-3.php:124 assets/frontend/translate/cs-strings-3.php:161
+msgid "Boxed"
+msgstr "התאגרף"
+
+#: assets/frontend/translate/cs-strings-3.php:134
+msgid "Footer Logo"
+msgstr "לוגו כותרת תחתונה"
+
+#: assets/frontend/translate/cs-strings-3.php:135
+msgid "Upload your custom footer logo in .png .jpg .gif formats only."
+msgstr "העלה את לוגו הכותרת התחתונה המותאמת אישית שלך בפורמטים .png .jpg .gif בלבד."
+
+#: assets/frontend/translate/cs-strings-3.php:136
+msgid "Element Title fonts"
+msgstr "גופני כותרת אלמנט"
+
+#: assets/frontend/translate/cs-strings-3.php:137
+msgid "fonts Attr"
+msgstr "גופנים Attr"
+
+#: assets/frontend/translate/cs-strings-3.php:138 assets/frontend/translate/cs-strings-3.php:140
+msgid "Classic v2"
+msgstr "V2 קלאסי"
+
+#: assets/frontend/translate/cs-strings-3.php:139
+msgid "Counter Title Color"
+msgstr "צבע כותרת דלפק"
+
+#: assets/frontend/translate/cs-strings-3.php:141
+msgid "Advance"
+msgstr "התקדמות"
+
+#: assets/frontend/translate/cs-strings-3.php:143
+msgid "Footer Social Icons"
+msgstr "כותרת תחתונה סמלים חברתיים"
+
+#: assets/frontend/translate/cs-strings-3.php:144
+msgid "Show Icons"
+msgstr "הצג סמלים"
+
+#: assets/frontend/translate/cs-strings-3.php:145
+msgid "Yes"
+msgstr "כן"
+
+#: assets/frontend/translate/cs-strings-3.php:146
+msgid "No"
+msgstr "לא"
+
+#: assets/frontend/translate/cs-strings-3.php:153
+msgid "Consumer Key"
+msgstr "מפתח צרכן"
+
+#: assets/frontend/translate/cs-strings-3.php:154
+msgid "Insert Twitter Consumer Key here. When you create your Twitter App, you will get this key."
+msgstr "הכנס כאן את מפתח הצרכן של טוויטר. כשאתה יוצר את אפליקציית הטוויטר שלך תקבל מפתח זה."
+
+#: assets/frontend/translate/cs-strings-3.php:155
+msgid "Consumer Secret"
+msgstr "סוד הצרכן"
+
+#: assets/frontend/translate/cs-strings-3.php:156
+msgid "Insert Twitter Consumer secret here. When you create your Twitter App, you will get this key."
+msgstr "הכנס כאן את סוד הצרכן של טוויטר. כשאתה יוצר את אפליקציית הטוויטר שלך תקבל מפתח זה."
+
+#: assets/frontend/translate/cs-strings-3.php:157
+msgid "Access Token"
+msgstr "אסימון גישה"
+
+#: assets/frontend/translate/cs-strings-3.php:158
+msgid "Insert Twitter Access Token for permissions. When you create your Twitter App, you will get this Token."
+msgstr "הכנס אסימון גישה בטוויטר לקבלת הרשאות. כשאתה יוצר את אפליקציית הטוויטר שלך תקבל אסימון זה."
+
+#: assets/frontend/translate/cs-strings-3.php:159
+msgid "Access Token Secret"
+msgstr "גישה לאסימון אסימון"
+
+#: assets/frontend/translate/cs-strings-3.php:160
+msgid "Insert Twitter Access Token Secret here. When you create your Twitter App, you will get this Token."
+msgstr "הכנס כאן סוד אסימון לגישה לטוויטר. כשאתה יוצר את אפליקציית הטוויטר שלך תקבל אסימון זה."
+
+#: assets/frontend/translate/cs-strings-3.php:162
+msgid "Footer Border Color"
+msgstr "צבע גבול תחתונה"
+
+#: assets/frontend/translate/cs-strings-3.php:163
+msgid "Change footer border color"
+msgstr "שנה צבע גבול תחתונה"
+
+#: assets/frontend/translate/cs-strings-3.php:164
+msgid "Post Tile Length"
+msgstr "אורך אריח לאחר מכן"
+
+#: assets/frontend/translate/cs-strings-3.php:165 assets/frontend/translate/cs-strings-3.php:167
+msgid "Element Title Color"
+msgstr "צבע כותרת אלמנט"
+
+#: assets/frontend/translate/cs-strings-3.php:166
+msgid "Fax"
+msgstr "פקס"
+
+#: assets/frontend/translate/cs-strings-3.php:168
+msgid "Set the element title color here"
+msgstr "קבע כאן את צבע כותרת האלמנט"
+
+#: assets/frontend/translate/cs-strings-3.php:169
+msgid "Element Subtitle Color"
+msgstr "צבע כותרת אלמנט"
+
+#: assets/frontend/translate/cs-strings-3.php:170
+msgid "Set the element subtitle color here"
+msgstr "קבע כאן את צבע כותרת המשנה"
+
+#: assets/frontend/translate/cs-strings-3.php:172
+msgid "Turn this switch on/off for header wide/boxed"
+msgstr "הפעל / כבה מתג זה לכותרת רחבה / ארגז"
+
+#: assets/frontend/translate/cs-strings-3.php:178
+msgid "Seperator"
+msgstr "מפריד"
+
+#: assets/frontend/translate/cs-strings-3.php:179
+msgid "Set the element title seperator here."
+msgstr "הגדר כאן את מפריד כותרת האלמנטים."
+
+#: assets/frontend/translate/cs-strings-3.php:180
+msgid "None"
+msgstr "אף אחד"
+
+#: assets/frontend/translate/cs-strings-3.php:181
+msgid "Classic Seperator"
+msgstr "מפריד קלאסי"
+
+#: assets/frontend/translate/cs-strings-3.php:182
+msgid "Zigzag Seperator"
+msgstr "מפריד זיגזג"
+
+#: assets/frontend/translate/cs-strings-3.php:183
+msgid "Cache Time Limit"
+msgstr "מגבלת זמן מטמון"
+
+#: assets/frontend/translate/cs-strings-3.php:184
+msgid "Add time limit in minutes for refresh cache"
+msgstr "הוסף מגבלת זמן בתוך דקות עבור רענון המטמון"
+
+#: assets/frontend/translate/cs-strings-3.php:185
+msgid "Date Time Format"
+msgstr "פורמט זמן תאריך"
+
+#: assets/frontend/translate/cs-strings-3.php:186
+msgid "Select date time format for every tweet."
+msgstr "בחר פורמט זמן תאריך עבור כל ציוץ."
+
+#: assets/frontend/translate/cs-strings-3.php:187
+msgid "Theme Skins"
+msgstr "עורות נושא"
+
+#: assets/frontend/translate/cs-strings-3.php:188
+msgid "Choose theme skin default/dark from dropdown"
+msgstr "בחר ברירת מחדל / עור כהה מהתפריט הנפתח"
+
+#: assets/frontend/translate/cs-strings-3.php:190
+msgid "Dark"
+msgstr "אפל"
+
+#. Description of the theme
+msgid ""
+"Homevillas Real Estate is complete solution for property WordPress theme, not only the front end but back end of theme provide complete property management system where user can set a complete online property marketplace for users and members, offering them their separate profile page, dashboards and accepting commission "
+"directly via default payment gateways of woocommerce."
+msgstr "Homevillas Real Estate הוא פיתרון מושלם לנושא WordPress של נכסים, לא רק בקצה הקדמי, אלא גם בקצה האחורי של הנושא, מספקים מערכת ניהול נכסים שלמה בה המשתמש יכול להגדיר שוק נכסים מקוון שלם למשתמשים ולחברים, ולהציע להם את עמוד הפרופיל הנפרד, לוח המחוונים וקבלת הסכמה העמלה ישירות דרך שערי תשלום ברירת מחדל של woocommerce."
+
+#. URI of the theme
+msgid "http://www.chimpstudio.co.uk/"
+msgstr "http://www.chimpstudio.co.uk/"
+
+#. Author of the theme
+msgid "Chimp Studio"
+msgstr "סטודיו לשימפנזים"
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/chimpstudio"
+msgstr "https://themeforest.net/user/chimpstudio"

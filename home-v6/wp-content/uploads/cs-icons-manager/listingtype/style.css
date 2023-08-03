@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'listingtype';
+  src:  url('fonts/listingtype.eot?z9yqms');
+  src:  url('fonts/listingtype.eot?z9yqms#iefix') format('embedded-opentype'),
+    url('fonts/listingtype.ttf?z9yqms') format('truetype'),
+    url('fonts/listingtype.woff?z9yqms') format('woff'),
+    url('fonts/listingtype.svg?z9yqms#listingtype') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="listingtype-"], [class*=" listingtype-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'listingtype' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.listingtype-listing-types-motors:before {
+  content: "\e900";
+}
+.listingtype-listing-types-pets:before {
+  content: "\e901";
+}
+.listingtype-listing-types-property:before {
+  content: "\e902";
+}
+.listingtype-listing-types-restaurant:before {
+  content: "\e903";
+}
+.listingtype-listing-types-education:before {
+  content: "\e904";
+}
+.listingtype-listing-types-for-sale:before {
+  content: "\e905";
+}
+.listingtype-listing-types-homes-hotels:before {
+  content: "\e906";
+}
+.listingtype-listing-types-jobs:before {
+  content: "\e907";
+}
